@@ -1,2 +1,3 @@
-# useful_links
-This repository contains useful website links 
+# utilities
+This repository contains general utilities i.e. files, links, scripts etc that might be useful
+
